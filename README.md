@@ -1,1 +1,2 @@
-"Todd Goldfarb" 
+Todd Goldfarb
+goldfart@oregonstate.edu
